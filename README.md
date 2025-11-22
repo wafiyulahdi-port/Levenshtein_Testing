@@ -14,7 +14,7 @@ A more advanced implementation uses:
 * A custom Levenshtein function
 * A simple rule-based spelling correction mechanism
 
-The spelling correction process works by:
+  The spelling correction process works by:
 * Tokenizing the input sentence
 * Comparing each word to the vocabulary
 * Selecting the closest match based on minimum edit distance
